@@ -1,7 +1,6 @@
 # Student-record-system
 This project is a basic Java console application that allows users to create and store student profiles. The program collects student details through user input, adds them to an internal collection, and displays all student records. It serves as a simple example of object-oriented programming, user interaction, and data management in Java.
 
-# Student record system
 A simple Java console application for managing and displaying student information. Users can input student details, store multiple student records, and display all stored data.
 
 ## Features
